@@ -1,0 +1,5 @@
+[{"":{"event_name":"video_played","event_section":"video_liked","client_id":"c1"}},
+  {"":{"event_name":"video_played","event_section":"video_liked","client_id":"c2"}},
+  {"":{"event_name":"video_played","event_section":"video_liked","client_id":"c3"}},
+  {"":{"event_name":"video_shared","event_section":"video_liked","client_id":"c1"}},
+  {"":{"event_name":"video_liked","event_section":"news","client_id":"c1"}}]
