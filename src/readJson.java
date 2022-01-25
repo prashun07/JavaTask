@@ -4,7 +4,9 @@ import com.google.gson.JsonElement;
 import com.google.gson.JsonStreamParser;
 import java.io.*;
 import java.util.*;
-
+/*
+Please see the PojoGson.java file to see class 
+*/
 public class readJson{
     public static void main(String[] args) throws IOException {
         HashMap<String, Set<String>>Client_map=new HashMap<>();
